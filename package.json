@@ -29,6 +29,7 @@
     "format:fix": "prettier --write ."
   },
   "dependencies": {
+    "@faker-js/faker": "^10.1.0",
     "@nuxt/eslint": "1.12.1",
     "@nuxt/hints": "1.0.0-alpha.5",
     "@nuxt/image": "2.0.0",
