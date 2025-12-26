@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
-    "test": "vitest",
+    "test": "vitest --passWithNoTests",
     "test:unit": "vitest --project unit",
     "test:nuxt": "vitest --project nuxt",
     "test:watch": "vitest --watch",
