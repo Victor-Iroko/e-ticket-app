@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "oven.bun-vscode",
+    "ms-azuretools.vscode-containers",
+    "vivaxy.vscode-conventional-commits",
+    "ms-vscode-remote.remote-containers",
+    "ms-azuretools.vscode-docker",
+    "dbaeumer.vscode-eslint",
+    "github.vscode-github-actions",
+    "antfu.iconify",
+    "bradlc.vscode-tailwindcss",
+    "vitest.explorer",
+    "vue.volar"
+  ]
+}

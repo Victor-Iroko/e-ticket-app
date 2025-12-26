@@ -18,4 +18,8 @@ export default defineNuxtConfig({
   security: {
     csrf: true,
   },
+  runtimeConfig: {
+    gmailUser: "",
+    gmailPass: "",
+  },
 });
