@@ -23,7 +23,4 @@ export default defineNuxtConfig({
     gmailPass: "",
     paystackApiKey: "",
   },
-  nitro: {
-    preset: "vercel",
-  },
 });
