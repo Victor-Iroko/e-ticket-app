@@ -23,4 +23,11 @@ export default defineNuxtConfig({
     gmailPass: "",
     paystackApiKey: "",
   },
+  nitro: {
+    vercel: {
+      functions: {
+        runtime: "bun1.x",
+      },
+    },
+  },
 });
