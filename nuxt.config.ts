@@ -24,6 +24,6 @@ export default defineNuxtConfig({
     paystackApiKey: "",
   },
   nitro: {
-    preset: "bun",
+    preset: "vercel",
   },
 });
